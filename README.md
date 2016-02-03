@@ -25,6 +25,8 @@ Reference Guides and resources to learn functional programming
 #### Clojurescript Resources
 
 ### React Redux Resources
+ [On React Components](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.g3w7miu71)
+
  [React Rails Resource](https://github.com/shakacode/react-webpack-rails-tutorial)
 
  [React Router Binding w/ Redux](https://github.com/rackt/react-router-redux)
