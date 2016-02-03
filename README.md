@@ -15,6 +15,9 @@ Reference Guides and resources to learn functional programming
 
 #### Om Resources (focused on Om.next)
  [Quick Start Guide](https://github.com/omcljs/om/wiki/Quick-Start-(om.next))
+ 
+ [Om Next](https://github.com/omcljs/om/wiki/Quick-Start-(om.next)
+ 
 
 #### Clojure Resources
  [JUXT Training Courses](https://juxt.pro/training.html)
@@ -23,11 +26,12 @@ Reference Guides and resources to learn functional programming
 
 ### React Redux Resources
  [React Router Binding w/ Redux](https://github.com/rackt/react-router-redux)
+ 
  [Redux Router](https://github.com/acdlite/redux-router)
  
  Example setup
  ```
- import React from 'react'
+import React from 'react'
 import ReactDOM from 'react-dom'
 import { createStore, combineReducers, applyMiddleware } from 'redux'
 import { Provider } from 'react-redux'
@@ -60,4 +64,7 @@ ReactDOM.render(
   document.getElementById('mount')
 )
  ```
+ 
+ [React on Rails Gem](https://github.com/shakacode/react_on_rails)
+ 
  
