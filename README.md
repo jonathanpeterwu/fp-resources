@@ -16,7 +16,7 @@ Reference Guides and resources to learn functional programming
 #### Om Resources (focused on Om.next)
  [Quick Start Guide](https://github.com/omcljs/om/wiki/Quick-Start-(om.next))
  
- [Om Next](https://github.com/omcljs/om/wiki/Quick-Start-(om.next)
+ [Om Next](https://github.com/omcljs/om/wiki/Quick-Start-(om.next))
  
 
 #### Clojure Resources
@@ -25,6 +25,8 @@ Reference Guides and resources to learn functional programming
 #### Clojurescript Resources
 
 ### React Redux Resources
+ [React Rails Resource](https://github.com/shakacode/react-webpack-rails-tutorial)
+
  [React Router Binding w/ Redux](https://github.com/rackt/react-router-redux)
  
  [Redux Router](https://github.com/acdlite/redux-router)
